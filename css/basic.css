@@ -1,1 +1,13 @@
 /* Denna fil får du editera för att lösa uppgiften. Du får INTE ändra i html-filen. */
+#container{
+    width: 642px;
+    height: 672px;
+    background-color: white;
+    color: white;
+    overflow: auto;
+    margin: 0 auto;
+}
+
+
+
+
