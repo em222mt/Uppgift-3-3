@@ -8,6 +8,24 @@
     margin: 0 auto;
 }
 
+#topbar{
+    font-family: verdana, sans-serif;
+    font-size: 0.65em;
+    font-style: italic;
+    position: relative;
+    left: 20px;
+    top: 9px;
+    right: 20px;
+    bottom: 20px ;
+    text-align: right;
+    width: 600px;
+    border: 1px solid #ccc8b8;
+    height: 220px;
+    background-color: #4f463c;
+    background-image: url(pics/coffey.jpg);
+    background-repeat: no-repeat;
+    background-position: 0% 100%;
+}
 
 
 
