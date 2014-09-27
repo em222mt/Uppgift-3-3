@@ -89,3 +89,27 @@
 #menu > ul > li:nth-child(5) > a{
     text-transform: capitalize;
 }
+
+#menu > ul > li > a:link{
+    color: white;
+}
+#menu > ul > li > a:visited{
+    color: white;
+}
+#menu > ul > li > a:focus{
+    background-color: #9c9084;
+    color: white;
+}
+#menu > ul > li > a:hover{
+    background-color: #9c9084;
+    color: white;
+}
+#menu ul li a:active{
+    background-color: #e8e5d1;
+    color: #9c9084;
+}
+
+#menu > ul > li.active > a{
+    background-color: #e8e5d1;
+    color: #9c9084;
+}
