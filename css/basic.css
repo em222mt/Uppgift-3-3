@@ -181,4 +181,32 @@
     color: #4f463c;
 }
 
+#subcontent li a{
+    position: relative;
+    top: -10px;
+}
+
+#subcontent > ul > li > a:link{
+    color: black;
+}
+#subcontent > ul > li > a:visited{
+    color: #4f463c;
+}
+#subcontent > ul > li > a:focus{
+
+    color: gray;
+}
+#subcontent > ul > li > a:hover{
+
+    color: #bfbfbf;
+}
+#subcontent > ul > li > a:active{
+
+    color: #9c9084;
+}
+
+#subcontent ul li a{
+    font-size: 1.3em;
+}
+
 
