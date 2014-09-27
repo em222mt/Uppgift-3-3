@@ -225,5 +225,17 @@
     float: left;
 }
 
+#content{
+    position: relative;
+    top: 8px;
+    left: 20px;
+    border-bottom: none;
+    border-top: none;
+    width: 600px;
+    height: 370px;
+    background-color: #e8e5d1;
+    border-left: 1px solid #ccc8b8;
+    border-right: 1px solid #ccc8b8;
+}
 
 
