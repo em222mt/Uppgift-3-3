@@ -159,6 +159,26 @@
     padding-bottom: 20px;
     line-height: 215%;
     font-size: 1.03em;
-
 }
+
+#subcontent h1{
+    font-family: times, serif;
+    color: #4f463c;
+    font-weight: lighter;
+}
+
+#subcontent h2{
+    font-family: times, serif;
+    color: #4f463c;
+    font-weight: lighter;
+}
+
+#subcontent ul{
+    
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    color: #4f463c;
+}
+
 
