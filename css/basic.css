@@ -113,3 +113,25 @@
     background-color: #e8e5d1;
     color: #9c9084;
 }
+
+#maincontent img{
+    float: left;
+    border-right: 5px solid #e8e5d1;
+
+}
+
+#maincontent p{
+    width: 347px;
+    border-right: 1px dashed #bfbfbf;
+    padding-right: 10px;
+}
+
+#maincontent{
+    font-family: verdana, sans-serif;
+    font-size: 0.85em;
+    line-height: 160%;
+    color: #786f66;
+    float: left;
+    background-color: #e8e5d1;
+    padding-left: 10px;
+}
